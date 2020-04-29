@@ -7,7 +7,7 @@
   times: 
     start time: 10:30 am (eastern)
     end time: 6:30 pm
-    lunch: 12:00 pm (eastern)
+    lunch: 1:30 pm (eastern)
 
   github repo: https://github.com/rzfeeser/20200427kubernetes
   digital manuals: https://lms.alta3.com/
@@ -29,6 +29,9 @@
 
 Questions
 ---------
+- 5128 <- check challenge on lab 1 (new port)
+- match selector experiment!
+
 
 ** = critical lab
 --------------------
@@ -51,12 +54,12 @@ Tuesday:
     - Lab 12 (Annotations)
     - Lab 13 (Replica Sets)
     - Lab 14 (Building an image registry)
-    - Lab 15 (Writing a manifest)
-    - Lab 16 (Rolling updates and rollbacks)
-    - Lab 17 (Horizontal Scaling with kubectl scale)
    
 Wednesday:
  - Complete Labs:
+    - Lab 15 (Writing a manifest)
+    - Lab 16 (Rolling updates and rollbacks)
+    - Lab 17 (Horizontal Scaling with kubectl scale)
     - Lab 18 (LivenessProbes and ReadinessProbes)
     - Lab 19 (Setting an Application’s Resource Requirements)
     - Lab 20 (Kubernetes Jobs and CronJobs)
