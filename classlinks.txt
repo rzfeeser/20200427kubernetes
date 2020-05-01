@@ -1,0 +1,13 @@
+https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.18/
+
+https://kubernetes.io/docs/concepts/configuration/manage-resources-containers/
+
+https://kubernetes.io/blog/2016/07/autoscaling-in-kubernetes/
+
+https://kubernetes.io/docs/setup/learning-environment/minikube/
+
+https://alta3.com/blog/00fg5lqocxkpikimilx872gnbtt2yc
+
+https://github.com/alta3/kubernetes-the-alta3-way
+
+https://kubernetes.io/docs/tasks/run-application/update-api-object-kubectl-patch/
