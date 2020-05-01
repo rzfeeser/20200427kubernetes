@@ -11,3 +11,5 @@ https://alta3.com/blog/00fg5lqocxkpikimilx872gnbtt2yc
 https://github.com/alta3/kubernetes-the-alta3-way
 
 https://kubernetes.io/docs/tasks/run-application/update-api-object-kubectl-patch/
+
+https://kubernetes.io/docs/reference/access-authn-authz/rbac/
